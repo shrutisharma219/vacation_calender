@@ -1,0 +1,1 @@
+A dynamic vacation calendar web application allowing users to mark days, automatically highlight weeks in light or dark green, view monthly and quarterly layouts, manage multiple countries, and display holidays dynamically.
